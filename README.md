@@ -1,4 +1,4 @@
-# Syncope Basics: Configure Active Directory in Apache Syncope 2.0
+# Syncope Basics: Manage Active Directory
 
 ### Description
 Sample project showing Apache Syncope configured for Active Directory provisioning

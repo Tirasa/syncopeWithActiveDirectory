@@ -5,4 +5,4 @@ Sample project showing Apache Syncope configured for Active Directory provisioni
 
 
 ### Code for blog post at:
-http://blog.tirasa.net/syncope-2.0-active-directory.html
+http://blog.tirasa.net/syncope-basics-manage-active-directory.html
